@@ -8,12 +8,11 @@ Formula
 
 DR = Defense / Enemy dmg (max 80% DR, can increase through passive/trait/class/...)
 
-Or
+And
 
-Damage taken = Enemy dmg × (1 - Defense/Enemy dmg)
+Damage taken = Enemy dmg × (1 - DR)
 Clamp DR between 0% and 80%.
 (No minimum DR. Only maximum DR.)
-
 ---
 
 Ex:
