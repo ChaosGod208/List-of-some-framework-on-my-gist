@@ -1,6 +1,6 @@
 # HTP Framework List
 
-List of some framework from my gist
+This repo is a navigational index to 11 foundational frameworks from ChaosGod208’s Gist archive. Each entry links to a standalone Gist with full content.
 
 All content is **public domain** — use, fork, modify, build upon freely. No attribution required, but linking back is appreciated.
  
